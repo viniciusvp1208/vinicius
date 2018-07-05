@@ -1,0 +1,45 @@
+{
+    "room": "mago",
+    "author": "viniciusvp",
+    "icon": "https://imgur.com/w0ZBXOA",
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#FFDD6F",
+        "ambassador": null,
+        "host": "#C59840",
+        "cohost": "#C59840",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": ""http://2.bp.blogspot.com/-CFXft4Icp7s/UXxFCCnc4ZI/AAAAAAACL3g/8vOSi9UjiFY/s1600/fundos+-de+-tela-fundos+(2).jpg"",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": https://imgur.com/w0ZBXOA",
+        "cohost": "https://imgur.com/w0ZBXOA",
+        "manager": "https://imgur.com/w0ZBXOA",
+        "bouncer": "https://imgur.com/w0ZBXOA",
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
