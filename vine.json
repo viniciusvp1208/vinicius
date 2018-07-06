@@ -1,7 +1,7 @@
 {
     "room": "é nois que comanda o plug",
     "author": "Author",
-    "icon": ("https://rawgit.com/viniciusvp1208/vinicius/master/users.css"),
+    "icon": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "https://www.walldevil.com/wallpapers/w02/781816-black-background-ghosts-pac-man-retro-games-video-games.jpg",
+        "background": "https://avante.biz/wp-content/uploads/Cool-Backgrounds-Picture/Cool-Backgrounds-Picture-036.jpg",
         "playback": null,
         "admin": "https://imgur.com/E6KAuZb",
         "ambassador": null,
