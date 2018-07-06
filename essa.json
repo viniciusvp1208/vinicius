@@ -1,0 +1,45 @@
+{
+    "room": "é nois que comanda o plug",
+    "author": "Author",
+    "icon": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#FFDD6F",
+        "ambassador": null,
+        "host": "#C59840",
+        "cohost": "#C59840",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://avante.biz/wp-content/uploads/Cool-Backgrounds-Picture/Cool-Backgrounds-Picture-036.jpg",
+        "playback": null,
+        "admin": "https://imgur.com/E6KAuZb",
+        "ambassador": null,
+        "host": "https://imgur.com/E6KAuZb",
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
