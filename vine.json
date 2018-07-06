@@ -1,7 +1,7 @@
 {
     "room": "é nois que comanda o plug",
     "author": "Author",
-    "icon": "https://rawgit.com/viniciusvp1208/vinicius/master/users.css",
+    "icon": ("https://rawgit.com/viniciusvp1208/vinicius/master/users.css"),
     "css": null,
     "rules": {
         "allowAutorespond": true,
