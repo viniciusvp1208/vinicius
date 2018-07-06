@@ -1,8 +1,8 @@
 {
-    "room": "mago",
+    "room": "dominadores do plug",
     "author": "viniciusvp",
     "icon": "https://imgur.com/w0ZBXOA",
-    "css": null,
+    "css": "https://rawgit.com/viniciusvp1208/vinicius/master/users.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
