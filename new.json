@@ -1,8 +1,8 @@
 {
     "room": "é nois que comanda o plug",
     "author": "Author",
-    "icon": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
-    "css": null,
+    "icon": null,
+    "css": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -29,9 +29,9 @@
     "images": {
         "background": "http://images1.fanpop.com/images/image_uploads/RBD-rbd-band-981516_1024_768.jpg",
         "playback": null,
-        "admin": "https://imgur.com/E6KAuZb",
+        "admin": "https://imgur.com/E6KAuZb.jpg",
         "ambassador": null,
-        "host": "https://imgur.com/E6KAuZb",
+        "host": "https://imgur.com/E6KAuZb.jpg",
         "cohost": null,
         "manager": null,
         "bouncer": null,
