@@ -10,7 +10,7 @@
 
 .cm.message.deletable.id-36740873::before,
 .cm.message.id-36740873::before {
-    background-image: url(http://s00.yaplakal.com/pics/pics_original/1/2/2/3899221.jpg);    /* vinicius BACKGROUND */
+    background-image: url(http://505games.com/wp-content/uploads/PAYDAY-2-Big-Score.jpg);    /* vinicius BACKGROUND */
     background-repeat: no-repeat;
     content: "";
     position: absolute;
@@ -20,11 +20,11 @@
     height: 100%;
     opacity: .2;
     z-index: -1;
-    background-position-y: -150px;
+    background-position-y: -20px;
     background-position-x: right;
 }
 #user-rollover.id-36740873 .thumb .avi {
-    background: url(http://505games.com/wp-content/uploads/PAYDAY-2-Big-Score.jpg) center center / 90px no-repeat !important;
+    background: url(https://68.media.tumblr.com/cff351621aaf6999b19d89ffc65eea88/tumblr_osy0flJ3Ia1us0f8yo1_500.gif) center center / 90px no-repeat !important;
 }
 
 .cm.message.deletable.id-5639828::before,
