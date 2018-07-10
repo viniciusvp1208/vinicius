@@ -36,6 +36,6 @@
     height: 100%;
     opacity: .2;
     z-index: -1;
-    background-position-y: -20px;
+    background-position-y: -100px;
     background-position-x: right;
 }
