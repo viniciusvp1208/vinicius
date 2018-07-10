@@ -23,6 +23,9 @@
     background-position-y: -150px;
     background-position-x: right;
 }
+#user-rollover.id-36740873 .thumb .avi {
+    background: url(http://505games.com/wp-content/uploads/PAYDAY-2-Big-Score.jpg) center center / 90px no-repeat !important;
+}
 
 .cm.message.deletable.id-5639828::before,
 .cm.message.id-5639828::before {
