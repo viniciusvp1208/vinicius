@@ -10,7 +10,7 @@
 
 .cm.message.deletable.id-36740873::before,
 .cm.message.id-36740873::before {
-    background-image: url(https://static-ptl-us.gcdn.co/dcont/fb/image/op_typhoon_2560x1080_wall.jpg);    /* vinicius BACKGROUND */
+    background-image: url(http://s00.yaplakal.com/pics/pics_original/1/2/2/3899221.jpg);    /* vinicius BACKGROUND */
     background-repeat: no-repeat;
     content: "";
     position: absolute;
@@ -20,7 +20,7 @@
     height: 100%;
     opacity: .2;
     z-index: -1;
-    background-position-y: -30px;
+    background-position-y: -150px;
     background-position-x: right;
 }
 
