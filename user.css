@@ -42,3 +42,18 @@
     background-position-y: -290px;
     background-position-x: right;
 }
+.cm.message.deletable.id-27725443::before,
+.cm.message.id-27725443::before {
+    background-image: url(https://media.tenor.com/images/b1dc0f1bf6b1e887ccb9127d07c53451/tenor.png);    /* C a s c a BACKGROUND */
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .2;
+    z-index: -1;
+    background-position-y: -20px;
+    background-position-x: right;
+}
