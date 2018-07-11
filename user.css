@@ -60,3 +60,22 @@
 #user-rollover.id-27725443 .thumb .avi {
     background: url(http://pa1.narvii.com/6265/3fc22c06b8c821709b8f5adbc05fdae44b4dba6f_hq.gif) center center / 180px no-repeat !important;
 }
+.cm.message.deletable.id-5842493::before,
+.cm.message.id-5842493::before {
+    background-image: url(https://fanart.tv/fanart/music/5bae9c05-fabd-420f-b806-c5b8ba88bd7e/artistbackground/rbd-51218a67a905c.jpg);    /* Keyce BACKGROUND */
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .2;
+    z-index: -1;
+    background-position-y: -60px;
+    background-position-x: right;
+}
+}
+#user-rollover.id-5842493 .thumb .avi {
+    background: url(https://media.tenor.co/images/08155e294b8e215b6c3d5be10ae62400/raw) center center / 180px no-repeat !important;
+}
