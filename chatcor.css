@@ -1,39 +1,39 @@
 /* Anfitrião/CoAnfitrião */
 #user-lists .group.host {
-    color: #C42E3B;
+    color: "#C42E3B";
     top: 1px;}
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
-    color: #C42E3B !important;}
+    color: "#C42E3B" !important;}
 .icon-chat-cohost + span,
 #user-lists .group.cohost ~ .user span,
 #dialog-user-role .role-menu .menu ul .cohost span {
-    color: #C42E3B !important;}
+    color: #"C42E3B" !important;}
 #user-lists .group {
     border: none !important;
     box-shadow: 0 0 1px 1px;}
 /* ------------------------------------------------------------------ */
 /* Coordenador */
 #user-lists .group.manager {
-    color: #C42E3B;}
+    color: "#C42E3B";}
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-    color: #C42E3B !important;}
+    color: "#C42E3B" !important;}
 /* ------------------------------------------------------------------ */
 /* Seguranca */
 #user-lists .group.bouncer {
-    color: #C42E3B;}
+    color: "#C42E3B";}
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-    color: #C42E3B !important;}
+    color: "#C42E3B" !important;}
 /* ------------------------------------------------------------------ */
 /* Dj Residente */
 #user-lists .group.dj {
-    color: #C42E3B;}
+    color: "#C42E3B";}
 .icon-chat-dj + span,
 #user-lists .group.dj ~ .user span,
 #dialog-user-role .role-menu .menu ul .dj span {
-    color: #C42E3B !important;}
+    color: "#C42E3B" !important;}
