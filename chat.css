@@ -1,15 +1,15 @@
 /* Chat */
 #chat .emote .text {
-    font-family: 'Satisfy', sans-serif;}
+    font-family: 'Gaegu', sans-serif;}
 #chat-messages .text {
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Gaegu', sans-serif;
     font-size: 13px;
     line-height: 20px;}
 #chat .from {
     position: relative;
     margin-bottom: 3px;
     font-size: 13px;
-    font-family: 'Satisfy', sans-serif;}
+    font-family: 'Gaegu', sans-serif;}
 #chat-input-field {
     position: absolute;
     top: 7px;
@@ -20,5 +20,5 @@
     border: 0;
     background: 0 0;
     color: #eee;
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Gaegu', sans-serif;
     font-size: 13px;}
