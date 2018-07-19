@@ -1,0 +1,45 @@
+{
+    "room": "frita !",
+    "author": "Author",
+    "icon": null,
+    "css": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#FFDD6F",
+        "ambassador": null,
+        "host": "#C59840",
+        "cohost": "#C59840",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://www.papeldeparede.etc.br/fotos/wp-content/uploads/valete_de_espadas_e_%C3%A1s_de_copas.jpg",
+        "playback": null,
+        "admin": "https://imgur.com/5Xsa55b",
+        "ambassador": null,
+        "host": "https://imgur.com/5Xsa55b",
+        "cohost": "https://imgur.com/5Xsa55b",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
