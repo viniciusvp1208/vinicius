@@ -92,3 +92,22 @@
 #user-rollover.id-5842493 .thumb .avi {
     background: url(https://media.tenor.co/images/08155e294b8e215b6c3d5be10ae62400/raw) center center / 180px no-repeat !important;
 }
+.cm.message.deletable.id-32291773::before,
+.cm.message.id-32291773::before {
+    background-image: url(https://i.pinimg.com/originals/d5/3c/12/d53c12e3a3994140ccb927fec61ab9db.png);    /* yTz_Cr4zZ 0f b4z3y BACKGROUND */
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .2;
+    z-index: -1;
+    background-position-y: -290px;
+    background-position-x: right;
+}
+}
+#user-rollover.id-32291773 .thumb .avi {
+    background: url(http://1.bp.blogspot.com/-V2tEh5_Ur6M/UI-FSDV7rHI/AAAAAAACrwk/QABgQ44DtU4/s640/79087078907890.gif) center center / 180px no-repeat !important;
+}
