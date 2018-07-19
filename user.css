@@ -26,6 +26,15 @@
 #user-rollover.id-36740873 .thumb .avi {
     background: url(https://68.media.tumblr.com/cff351621aaf6999b19d89ffc65eea88/tumblr_osy0flJ3Ia1us0f8yo1_500.gif) center center / 180px no-repeat !important;
 }
+/* Pυrpp */ 
+[data-cid^="5639828-"] .badge-box .bdg,
+#user-rollover.id-5639828 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.ytimg.com/vi/9ymIKfirqi8/hqdefault.jpg");
+}    
 
 .cm.message.deletable.id-5639828::before,
 .cm.message.id-5639828::before {
