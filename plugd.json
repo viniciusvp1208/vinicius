@@ -2,7 +2,7 @@
     "room": "frita !",
     "author": "Author",
     "icon": null,
-    "css": "https://rawgit.com/viniciusvp1208/vinicius/master/bond.css",
+    "css": "https://github.com/viniciusvp1208/vinicius/blob/master/bonds.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
