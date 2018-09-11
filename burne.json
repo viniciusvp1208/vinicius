@@ -1,0 +1,45 @@
+{
+    "room": "samo ♥ ll Brasil",
+    "author": "Author",
+    "icon": null,
+    "css": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#FFDD6F",
+        "ambassador": null,
+        "host": "#C59840",
+        "cohost": "#C59840",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "http://i62.tinypic.com/af9hsx.png",
+        "playback": null,
+        "admin": "https://imgur.com/5Xsa55b",
+        "ambassador": null,
+        "host": "https://imgur.com/5Xsa55b",
+        "cohost": "https://imgur.com/5Xsa55b",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
