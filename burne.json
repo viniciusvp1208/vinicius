@@ -2,7 +2,7 @@
     "room": "samo ♥ ll Brasil",
     "author": "Author",
     "icon": null,
-    "css": "https://rawgit.com/viniciusvp1208/vinicius/master/user.css",
+    "css": "https://cdn.jsdelivr.net/gh/viniciusvp1208/vinicius/user.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
